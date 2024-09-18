@@ -1,3 +1,4 @@
-streamilt
+streamlit
 pandas
-pickle
+scikit-learn
+pickle5  
