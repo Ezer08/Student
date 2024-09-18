@@ -4,7 +4,7 @@ import pickle
 from sklearn.linear_model import LinearRegression
 
 # Load the trained model
-model_path = r'C:\Users\ezer2\Desktop\jupiter\Student performance\students_model.pkl'
+model_path = 'students_model.pkl'
 with open(model_path, 'rb') as file:
     model = pickle.load(file)
 
